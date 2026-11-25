@@ -1,8 +1,8 @@
 # news-image-20261125 — The Day, In Full
 
-![competition](https://make.fun/badge/news-image-20261125.svg)
-![rank](https://make.fun/badge/news-image-20261125/hadhi2004xx/news-image-20261125/rank.svg)
-![reward](https://make.fun/badge/news-image-20261125/hadhi2004xx/news-image-20261125/reward.svg)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/hadhi2004xx/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/hadhi2004xx/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 Sum up 25 November's world news in one image. One 1024×1024 front page,
 Editorial High-Craft: ink on paper, one red accent, no gradients, no stock
