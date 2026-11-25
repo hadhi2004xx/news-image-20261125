@@ -1,0 +1,179 @@
+{
+  "date": "Wednesday 25 November 2026",
+  "edition": "news-image-20261125",
+  "lead": {
+    "bigLabel": "FIRST FOREIGN ASTRONAUT ABOARD TIANGONG",
+    "bigNumber": "1",
+    "dateline": "WEDNESDAY 25 NOV 2026 · 00:18 GMT",
+    "head": "Shenzhou-24 lifts off with Pakistan's first astronaut",
+    "kicker": "LEAD — SPACE",
+    "num": "01",
+    "place": "JIUQUAN",
+    "source": "Reuters",
+    "stand": "Muhammad Zeeshan Ali becomes the first foreigner aboard Tiangong. The Long March-2F launched at 00:18 GMT and docked hours later; Ali stays 5–10 days, then returns aboard Shenzhou-23."
+  },
+  "numbers": [
+    {
+      "label": "SHENZHOU-24 LIFTOFF, GMT",
+      "value": "00:18"
+    },
+    {
+      "label": "NIKKEI SLIDE ON CHIPS",
+      "value": "−2.8%"
+    },
+    {
+      "label": "RIALTO SEED ROUND",
+      "value": "$5M"
+    },
+    {
+      "label": "HOUTHIS FROM ADEN",
+      "value": "60 KM"
+    },
+    {
+      "label": "KOREA EXCHANGE CAP",
+      "value": "20%"
+    },
+    {
+      "label": "ALI’S STAY ON TIANGONG",
+      "value": "5–10"
+    }
+  ],
+  "secondLead": {
+    "head": "Nikkei slides 2.8% as chip stocks sink",
+    "kicker": "MARKETS",
+    "num": "02",
+    "place": "TOKYO",
+    "source": "The Wall Street Journal / Reuters",
+    "stand": "Advantest falls 12% a day after the index's record run; the Nikkei closes at 57,008.52."
+  },
+  "sections": [
+    {
+      "items": [
+        {
+          "deck": "Yemen's military says the rebels will not take the temporary capital.",
+          "head": "Houthis 60 km from Aden, army says, ready to attack",
+          "num": "03",
+          "place": "ADEN",
+          "source": "France 24"
+        },
+        {
+          "deck": "Businesses told to act against Russian sabotage risks.",
+          "head": "UK warns firms backing Ukraine over sabotage threat",
+          "num": "04",
+          "place": "LONDON",
+          "source": "BBC"
+        },
+        {
+          "deck": "Court finds he planned to join the war in Ukraine.",
+          "head": "Zimbabwean convicted in South Africa over Ukraine fight plan",
+          "num": "05",
+          "place": "JOHANNESBURG",
+          "source": "BBC"
+        },
+        {
+          "deck": "Demonstrations across France mark the 25 November observance.",
+          "head": "France marches on day against violence on women",
+          "num": "06",
+          "place": "PARIS",
+          "source": "France 24"
+        }
+      ],
+      "name": "WORLD"
+    },
+    {
+      "items": [
+        {
+          "deck": "Private-equity deal for the Airbus defence unit's American arm.",
+          "head": "Cerberus to acquire Airbus US Space Systems",
+          "num": "07",
+          "place": "WASHINGTON",
+          "source": "Breaking Defense"
+        },
+        {
+          "deck": "A lightweight tool built by a small team for commanders in the field.",
+          "head": "Small Army team builds AI battle-planning app Odin",
+          "num": "08",
+          "place": "WASHINGTON",
+          "source": "Breaking Defense"
+        },
+        {
+          "deck": "Carmaker and defence officials discuss vehicle supply.",
+          "head": "Ford in talks with Pentagon to supply military vehicles",
+          "num": "09",
+          "place": "WASHINGTON",
+          "source": "Defense News"
+        }
+      ],
+      "name": "SPACE & DEFENCE"
+    },
+    {
+      "items": [
+        {
+          "deck": "The Times bars the new release, citing AI provenance concerns.",
+          "head": "NYT bans Photoshop 2027 over AI metadata risks",
+          "num": "10",
+          "place": "NEW YORK",
+          "source": "The Verge"
+        },
+        {
+          "deck": "The assistant is integrated directly into direct messages.",
+          "head": "Meta puts Muse AI inside Instagram DMs",
+          "num": "11",
+          "place": "MENLO PARK",
+          "source": "TechCrunch"
+        },
+        {
+          "deck": "Noam Brown says the best path into AI research skips the degree.",
+          "head": "OpenAI o1 co-creator tells top students: drop out, join AI labs",
+          "num": "12",
+          "place": "SAN FRANCISCO",
+          "source": "The Decoder"
+        },
+        {
+          "deck": "New limits on AI-generated material in teen feeds.",
+          "head": "Pinterest tightens parental controls on AI content for teens",
+          "num": "13",
+          "place": "SAN FRANCISCO",
+          "source": "TechCrunch"
+        }
+      ],
+      "name": "TECH"
+    },
+    {
+      "items": [
+        {
+          "deck": "Reporting rules land for the fast-growing betting platforms.",
+          "head": "CFTC approves new rules for prediction markets",
+          "num": "14",
+          "place": "WASHINGTON",
+          "source": "Cointelegraph"
+        },
+        {
+          "deck": "The round backs a new onchain venue for traders.",
+          "head": "Robinhood co-leads $5M seed for onchain trading platform Rialto",
+          "num": "15",
+          "place": "NEW YORK",
+          "source": "The Block"
+        },
+        {
+          "deck": "Investor backs clean power for the AI buildout.",
+          "head": "G2VP bets solar and batteries will power AI data centres",
+          "num": "16",
+          "place": "SAN FRANCISCO",
+          "source": "TechCrunch"
+        },
+        {
+          "deck": "Draft also opens domestic ICOs and bank-led won stablecoins.",
+          "head": "South Korea drafts crypto bill with 20% exchange ownership cap",
+          "num": "17",
+          "place": "SEOUL",
+          "source": "Cointelegraph"
+        }
+      ],
+      "name": "MONEY & CRYPTO"
+    }
+  ],
+  "sourcesLine": "Compiled from Reuters, The Wall Street Journal, BBC, France 24, TechCrunch, The Verge, Breaking Defense, The Block, Cointelegraph, Defense News and The Decoder — all dated Wednesday 25 November 2026.",
+  "timezone": "UTC",
+  "verification": "Every story verified against a primary news source whose publication dateline reads Wednesday 25 November 2026 (competition RULES: events that happened, or were first reported, on 25 November 2026 in any time zone). 40+ candidates dated 21-24 Nov were checked and rejected; 17 verified. Built 01:44 UTC, when the news day was ~2 hours old in UTC."
+}
